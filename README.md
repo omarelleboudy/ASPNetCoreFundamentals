@@ -23,5 +23,7 @@ This is the first course in the ASP.Net Core Path on Pluralsight.
 ## Links
 
 Path: https://app.pluralsight.com/paths/skill/aspnet-core
+
 Course: https://app.pluralsight.com/library/courses/aspnet-core-fundamentals/table-of-contents
+
 My Certificate: https://github.com/omarelleboudy/Certificates/blob/main/Certificates/ASP.NET%20Core%20Fundamentals.pdf
